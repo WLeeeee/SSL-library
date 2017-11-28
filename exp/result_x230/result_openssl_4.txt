@@ -1,0 +1,310 @@
+0 MS DELAY-----------------------------------------------
+<hc>: Avg 383.64917891402723171 connection(s)/sec
+<hc>: transmission throughput = 310.926951 Mbits/sec
+<hc>: Avg 0.00000002453757867(s)/byte, 0.04971313439077777(s)/file, file_size=2026000
+<hc>: Avg 383.64917891402723171 connections/sec
+<hc>: CLIENT STOP, total execution time = 9.968882 sec
+
+<hc>: Avg 326.93360795756399284 connection(s)/sec
+<hc>: transmission throughput = 117.307207 Mbits/sec
+<hc>: Avg 0.00000006503773042(s)/byte, 0.13176644183316727(s)/file, file_size=2026000
+<hc>: Avg 326.93360795756399284 connections/sec
+<hc>: CLIENT STOP, total execution time = 26.374138 sec
+
+<hc>: Avg 382.12890124948506809 connection(s)/sec
+<hc>: transmission throughput = 52.434172 Mbits/sec
+<hc>: Avg 0.00000014550424222(s)/byte, 0.29479159472790994(s)/file, file_size=2026000
+<hc>: Avg 382.12890124948506809 connections/sec
+<hc>: CLIENT STOP, total execution time = 58.985816 sec
+
+<hc>: Avg 338.76291237185870386 connection(s)/sec
+<hc>: transmission throughput = 46.889313 Mbits/sec
+<hc>: Avg 0.00000016271073553(s)/byte, 0.32965195019040555(s)/file, file_size=2026000
+<hc>: Avg 338.76291237185870386 connections/sec
+<hc>: CLIENT STOP, total execution time = 65.957759 sec
+
+<hc>: Avg 251.69485019751755317 connection(s)/sec
+<hc>: transmission throughput = 28.698743 Mbits/sec
+<hc>: Avg 0.00000026584420542(s)/byte, 0.53860036017339297(s)/file, file_size=2026000
+<hc>: Avg 251.69485019751755317 connections/sec
+<hc>: CLIENT STOP, total execution time = 107.762983 sec
+
+---------------------------------------------------------
+<hc>: Avg 92.63933256695901264 connection(s)/sec
+<hc>: transmission throughput = 242.526914 Mbits/sec
+<hc>: Avg 0.00000003145792933(s)/byte, 0.06373376482267118(s)/file, file_size=2026000
+<hc>: Avg 92.63933256695901264 connections/sec
+<hc>: CLIENT STOP, total execution time = 12.784027 sec
+
+<hc>: Avg 80.47888153669595113 connection(s)/sec
+<hc>: transmission throughput = 169.390877 Mbits/sec
+<hc>: Avg 0.00000004504017376(s)/byte, 0.09125139203876217(s)/file, file_size=2026000
+<hc>: Avg 80.47888153669595113 connections/sec
+<hc>: CLIENT STOP, total execution time = 18.298484 sec
+
+<hc>: Avg 56.93212694156343900 connection(s)/sec
+<hc>: transmission throughput = 59.854378 Mbits/sec
+<hc>: Avg 0.00000012746594063(s)/byte, 0.25824599571796475(s)/file, file_size=2026000
+<hc>: Avg 56.93212694156343900 connections/sec
+<hc>: CLIENT STOP, total execution time = 51.704992 sec
+
+<hc>: Avg 71.50513299597210448 connection(s)/sec
+<hc>: transmission throughput = 41.646810 Mbits/sec
+<hc>: Avg 0.00000018319277080(s)/byte, 0.37114855364660876(s)/file, file_size=2026000
+<hc>: Avg 71.50513299597210448 connections/sec
+<hc>: CLIENT STOP, total execution time = 74.284430 sec
+
+<hc>: Avg 78.60409194037659120 connection(s)/sec
+<hc>: transmission throughput = 27.301474 Mbits/sec
+<hc>: Avg 0.00000027944991559(s)/byte, 0.56616552899274530(s)/file, file_size=2026000
+<hc>: Avg 78.60409194037659120 connections/sec
+<hc>: CLIENT STOP, total execution time = 113.288426 sec
+
+---------------------------------------------------------
+<hc>: Avg 100.29346871881814707 connection(s)/sec
+<hc>: transmission throughput = 65.557101 Mbits/sec
+<hc>: Avg 0.00000011637785138(s)/byte, 0.23578152689444176(s)/file, file_size=2026000
+<hc>: Avg 100.29346871881814707 connections/sec
+<hc>: CLIENT STOP, total execution time = 47.209037 sec
+
+<hc>: Avg 89.20480075260306307 connection(s)/sec
+<hc>: transmission throughput = 65.296081 Mbits/sec
+<hc>: Avg 0.00000011684307021(s)/byte, 0.23672406025139783(s)/file, file_size=2026000
+<hc>: Avg 89.20480075260306307 connections/sec
+<hc>: CLIENT STOP, total execution time = 47.410160 sec
+
+<hc>: Avg 106.58283287364156422 connection(s)/sec
+<hc>: transmission throughput = 62.266360 Mbits/sec
+<hc>: Avg 0.00000012252835240(s)/byte, 0.24824244195878786(s)/file, file_size=2026000
+<hc>: Avg 106.58283287364156422 connections/sec
+<hc>: CLIENT STOP, total execution time = 49.691022 sec
+
+<hc>: Avg 103.96224008270404227 connection(s)/sec
+<hc>: transmission throughput = 53.141122 Mbits/sec
+<hc>: Avg 0.00000014356856205(s)/byte, 0.29086990672212981(s)/file, file_size=2026000
+<hc>: Avg 103.96224008270404227 connections/sec
+<hc>: CLIENT STOP, total execution time = 58.224640 sec
+
+<hc>: Avg 83.42164905246355033 connection(s)/sec
+<hc>: transmission throughput = 26.690188 Mbits/sec
+<hc>: Avg 0.00000028585015696(s)/byte, 0.57913241799129966(s)/file, file_size=2026000
+<hc>: Avg 83.42164905246355033 connections/sec
+<hc>: CLIENT STOP, total execution time = 115.884914 sec
+
+---------------------------------------------------------
+<hc>: Avg 104.77827711612040673 connection(s)/sec
+<hc>: transmission throughput = 266.992433 Mbits/sec
+<hc>: Avg 0.00000002857532119(s)/byte, 0.05789360073649990(s)/file, file_size=2026000
+<hc>: Avg 104.77827711612040673 connections/sec
+<hc>: CLIENT STOP, total execution time = 11.615979 sec
+
+<hc>: Avg 86.27545578891916023 connection(s)/sec
+<hc>: transmission throughput = 149.323585 Mbits/sec
+<hc>: Avg 0.00000005109303067(s)/byte, 0.10351448013236920(s)/file, file_size=2026000
+<hc>: Avg 86.27545578891916023 connections/sec
+<hc>: CLIENT STOP, total execution time = 20.752622 sec
+
+<hc>: Avg 82.59531664731733258 connection(s)/sec
+<hc>: transmission throughput = 62.651898 Mbits/sec
+<hc>: Avg 0.00000012177435605(s)/byte, 0.24671484535723645(s)/file, file_size=2026000
+<hc>: Avg 82.59531664731733258 connections/sec
+<hc>: CLIENT STOP, total execution time = 49.396253 sec
+
+<hc>: Avg 89.73414464964649540 connection(s)/sec
+<hc>: transmission throughput = 44.878622 Mbits/sec
+<hc>: Avg 0.00000017000064189(s)/byte, 0.34442130046307506(s)/file, file_size=2026000
+<hc>: Avg 89.73414464964649540 connections/sec
+<hc>: CLIENT STOP, total execution time = 68.933370 sec
+
+<hc>: Avg 109.51616633841020132 connection(s)/sec
+<hc>: transmission throughput = 26.565940 Mbits/sec
+<hc>: Avg 0.00000028718707021(s)/byte, 0.58184100424739815(s)/file, file_size=2026000
+<hc>: Avg 109.51616633841020132 connections/sec
+<hc>: CLIENT STOP, total execution time = 116.423930 sec
+
+---------------------------------------------------------
+<hc>: Avg 105.59256222886469345 connection(s)/sec
+<hc>: transmission throughput = 182.798028 Mbits/sec
+<hc>: Avg 0.00000004173674407(s)/byte, 0.08455864348664538(s)/file, file_size=2026000
+<hc>: Avg 105.59256222886469345 connections/sec
+<hc>: CLIENT STOP, total execution time = 16.954080 sec
+
+<hc>: Avg 111.48646125137533147 connection(s)/sec
+<hc>: transmission throughput = 152.839604 Mbits/sec
+<hc>: Avg 0.00000004991765454(s)/byte, 0.10113316809416475(s)/file, file_size=2026000
+<hc>: Avg 111.48646125137533147 connections/sec
+<hc>: CLIENT STOP, total execution time = 20.272436 sec
+
+<hc>: Avg 107.01137456003611703 connection(s)/sec
+<hc>: transmission throughput = 75.088473 Mbits/sec
+<hc>: Avg 0.00000010160540266(s)/byte, 0.20585254579419796(s)/file, file_size=2026000
+<hc>: Avg 107.01137456003611703 connections/sec
+<hc>: CLIENT STOP, total execution time = 41.220126 sec
+
+<hc>: Avg 105.21072972689186997 connection(s)/sec
+<hc>: transmission throughput = 41.007974 Mbits/sec
+<hc>: Avg 0.00000018604660814(s)/byte, 0.37693042808217153(s)/file, file_size=2026000
+<hc>: Avg 105.21072972689186997 connections/sec
+<hc>: CLIENT STOP, total execution time = 75.437745 sec
+
+<hc>: Avg 108.77234850268879995 connection(s)/sec
+<hc>: transmission throughput = 26.805309 Mbits/sec
+<hc>: Avg 0.00000028462252218(s)/byte, 0.57664522992915146(s)/file, file_size=2026000
+<hc>: Avg 108.77234850268879995 connections/sec
+<hc>: CLIENT STOP, total execution time = 115.382038 sec
+
+5 MS DELAY-----------------------------------------------
+<hc>: Avg 41.60706281555576425 connection(s)/sec
+<hc>: transmission throughput = 208.801986 Mbits/sec
+<hc>: Avg 0.00000003653889837(s)/byte, 0.07402780808914348(s)/file, file_size=2026000
+<hc>: Avg 41.60706281555576425 connections/sec
+<hc>: CLIENT STOP, total execution time = 14.851910 sec
+
+<hc>: Avg 41.60504439528669707 connection(s)/sec
+<hc>: transmission throughput = 78.498372 Mbits/sec
+<hc>: Avg 0.00000009719175517(s)/byte, 0.19691049597847937(s)/file, file_size=2026000
+<hc>: Avg 41.60504439528669707 connections/sec
+<hc>: CLIENT STOP, total execution time = 39.433244 sec
+
+<hc>: Avg 37.59754683526409025 connection(s)/sec
+<hc>: transmission throughput = 40.565220 Mbits/sec
+<hc>: Avg 0.00000018807723904(s)/byte, 0.38104448629638293(s)/file, file_size=2026000
+<hc>: Avg 37.59754683526409025 connections/sec
+<hc>: CLIENT STOP, total execution time = 76.269753 sec
+
+<hc>: Avg 39.09543637798296345 connection(s)/sec
+<hc>: transmission throughput = 32.338396 Mbits/sec
+<hc>: Avg 0.00000023592371830(s)/byte, 0.47798145327097363(s)/file, file_size=2026000
+<hc>: Avg 39.09543637798296345 connections/sec
+<hc>: CLIENT STOP, total execution time = 95.661713 sec
+
+<hc>: Avg 41.13884838540715805 connection(s)/sec
+<hc>: transmission throughput = 26.304348 Mbits/sec
+<hc>: Avg 0.00000029004309466(s)/byte, 0.58762730977389621(s)/file, file_size=2026000
+<hc>: Avg 41.13884838540715805 connections/sec
+<hc>: CLIENT STOP, total execution time = 117.601768 sec
+
+---------------------------------------------------------
+<hc>: Avg 18.79524685498664383 connection(s)/sec
+<hc>: transmission throughput = 226.926292 Mbits/sec
+<hc>: Avg 0.00000003362058424(s)/byte, 0.06811530366678002(s)/file, file_size=2026000
+<hc>: Avg 18.79524685498664383 connections/sec
+<hc>: CLIENT STOP, total execution time = 13.705313 sec
+
+<hc>: Avg 19.79070380769578819 connection(s)/sec
+<hc>: transmission throughput = 145.232595 Mbits/sec
+<hc>: Avg 0.00000005253224697(s)/byte, 0.10643033235570795(s)/file, file_size=2026000
+<hc>: Avg 19.79070380769578819 connections/sec
+<hc>: CLIENT STOP, total execution time = 21.369671 sec
+
+<hc>: Avg 19.41075621433419229 connection(s)/sec
+<hc>: transmission throughput = 62.497755 Mbits/sec
+<hc>: Avg 0.00000012207469702(s)/byte, 0.24732333616574975(s)/file, file_size=2026000
+<hc>: Avg 19.41075621433419229 connections/sec
+<hc>: CLIENT STOP, total execution time = 49.548245 sec
+
+<hc>: Avg 18.87877947029391734 connection(s)/sec
+<hc>: transmission throughput = 40.925229 Mbits/sec
+<hc>: Avg 0.00000018642277112(s)/byte, 0.37769253429656036(s)/file, file_size=2026000
+<hc>: Avg 18.87877947029391734 connections/sec
+<hc>: CLIENT STOP, total execution time = 75.626988 sec
+
+<hc>: Avg 19.01983595809922534 connection(s)/sec
+<hc>: transmission throughput = 27.352359 Mbits/sec
+<hc>: Avg 0.00000027893003888(s)/byte, 0.56511225876412963(s)/file, file_size=2026000
+<hc>: Avg 19.01983595809922534 connections/sec
+<hc>: CLIENT STOP, total execution time = 113.116091 sec
+
+---------------------------------------------------------
+<hc>: Avg 18.73045430267380240 connection(s)/sec
+<hc>: transmission throughput = 60.474238 Mbits/sec
+<hc>: Avg 0.00000012615941658(s)/byte, 0.25559897799309628(s)/file, file_size=2026000
+<hc>: Avg 18.73045430267380240 connections/sec
+<hc>: CLIENT STOP, total execution time = 51.209243 sec
+
+<hc>: Avg 19.04417223381779678 connection(s)/sec
+<hc>: transmission throughput = 59.945576 Mbits/sec
+<hc>: Avg 0.00000012727202071(s)/byte, 0.25785311395487309(s)/file, file_size=2026000
+<hc>: Avg 19.04417223381779678 connections/sec
+<hc>: CLIENT STOP, total execution time = 51.660117 sec
+
+<hc>: Avg 19.66334891568526899 connection(s)/sec
+<hc>: transmission throughput = 58.607869 Mbits/sec
+<hc>: Avg 0.00000013017696473(s)/byte, 0.26373853054832536(s)/file, file_size=2026000
+<hc>: Avg 19.66334891568526899 connections/sec
+<hc>: CLIENT STOP, total execution time = 52.834454 sec
+
+<hc>: Avg 19.61894207287620873 connection(s)/sec
+<hc>: transmission throughput = 49.965425 Mbits/sec
+<hc>: Avg 0.00000015269347770(s)/byte, 0.30935698582486698(s)/file, file_size=2026000
+<hc>: Avg 19.61894207287620873 connections/sec
+<hc>: CLIENT STOP, total execution time = 61.968771 sec
+
+<hc>: Avg 19.19173877018915775 connection(s)/sec
+<hc>: transmission throughput = 25.812222 Mbits/sec
+<hc>: Avg 0.00000029557294679(s)/byte, 0.59883079019003516(s)/file, file_size=2026000
+<hc>: Avg 19.19173877018915775 connections/sec
+<hc>: CLIENT STOP, total execution time = 119.859491 sec
+
+---------------------------------------------------------
+<hc>: Avg 19.31220061019601530 connection(s)/sec
+<hc>: transmission throughput = 250.889926 Mbits/sec
+<hc>: Avg 0.00000003040932986(s)/byte, 0.06160930230619040(s)/file, file_size=2026000
+<hc>: Avg 19.31220061019601530 connections/sec
+<hc>: CLIENT STOP, total execution time = 12.405775 sec
+
+<hc>: Avg 18.57643916782754090 connection(s)/sec
+<hc>: transmission throughput = 104.386495 Mbits/sec
+<hc>: Avg 0.00000007308794589(s)/byte, 0.14807617837517045(s)/file, file_size=2026000
+<hc>: Avg 18.57643916782754090 connections/sec
+<hc>: CLIENT STOP, total execution time = 29.705653 sec
+
+<hc>: Avg 18.76547811820460865 connection(s)/sec
+<hc>: transmission throughput = 65.129127 Mbits/sec
+<hc>: Avg 0.00000011714258799(s)/byte, 0.23733088327421303(s)/file, file_size=2026000
+<hc>: Avg 18.76547811820460865 connections/sec
+<hc>: CLIENT STOP, total execution time = 47.554346 sec
+
+<hc>: Avg 19.37668498441581733 connection(s)/sec
+<hc>: transmission throughput = 39.387823 Mbits/sec
+<hc>: Avg 0.00000019369932025(s)/byte, 0.39243482282764214(s)/file, file_size=2026000
+<hc>: Avg 19.37668498441581733 connections/sec
+<hc>: CLIENT STOP, total execution time = 78.576755 sec
+
+<hc>: Avg 18.78360810120487656 connection(s)/sec
+<hc>: transmission throughput = 25.751023 Mbits/sec
+<hc>: Avg 0.00000029627539963(s)/byte, 0.60025395965465556(s)/file, file_size=2026000
+<hc>: Avg 18.78360810120487656 connections/sec
+<hc>: CLIENT STOP, total execution time = 120.152391 sec
+
+---------------------------------------------------------
+<hc>: Avg 18.86706767864334822 connection(s)/sec
+<hc>: transmission throughput = 152.517229 Mbits/sec
+<hc>: Avg 0.00000005002316506(s)/byte, 0.10134693241707553(s)/file, file_size=2026000
+<hc>: Avg 18.86706767864334822 connections/sec
+<hc>: CLIENT STOP, total execution time = 20.352121 sec
+
+<hc>: Avg 18.98679908617295453 connection(s)/sec
+<hc>: transmission throughput = 143.225062 Mbits/sec
+<hc>: Avg 0.00000005326857205(s)/byte, 0.10792212697562027(s)/file, file_size=2026000
+<hc>: Avg 18.98679908617295453 connections/sec
+<hc>: CLIENT STOP, total execution time = 21.668092 sec
+
+<hc>: Avg 19.40221428546621496 connection(s)/sec
+<hc>: transmission throughput = 72.207802 Mbits/sec
+<hc>: Avg 0.00000010565886704(s)/byte, 0.21406486462607671(s)/file, file_size=2026000
+<hc>: Avg 19.40221428546621496 connections/sec
+<hc>: CLIENT STOP, total execution time = 42.900229 sec
+
+<hc>: Avg 18.83602021941288740 connection(s)/sec
+<hc>: transmission throughput = 41.512177 Mbits/sec
+<hc>: Avg 0.00000018378690590(s)/byte, 0.37235227135220916(s)/file, file_size=2026000
+<hc>: Avg 18.83602021941288740 connections/sec
+<hc>: CLIENT STOP, total execution time = 74.560958 sec
+
+<hc>: Avg 19.54391346345996539 connection(s)/sec
+<hc>: transmission throughput = 26.051710 Mbits/sec
+<hc>: Avg 0.00000029285580671(s)/byte, 0.59332586440318613(s)/file, file_size=2026000
+<hc>: Avg 19.54391346345996539 connections/sec
+<hc>: CLIENT STOP, total execution time = 118.757601 sec
+
