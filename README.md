@@ -13,4 +13,4 @@ Documentation will be released soon.
 
 There is also a tiny httpd implementation under exp/myhttp.
 
-The httpd used SSL library for file transmission.
+The httpd uses SSL library for file transmission.
